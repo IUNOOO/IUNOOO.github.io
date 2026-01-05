@@ -5,6 +5,11 @@
     <loc>https://iunooo.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-tw"
+                href="https://iunooo.github.io/zh-tw/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ja"
                 href="https://iunooo.github.io/ja/categories/"
                 />
@@ -12,11 +17,6 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://iunooo.github.io/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://iunooo.github.io/zh-tw/categories/"
                 />
     <xhtml:link
                 rel="alternate"
